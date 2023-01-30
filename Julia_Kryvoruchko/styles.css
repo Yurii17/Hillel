@@ -1,0 +1,21 @@
+h1 {
+    color: crimson;
+}
+
+.center {
+    text-align: center;
+}
+
+.about {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.photo {
+    height: 170px;
+    width: 150px;
+}
+
+.text-about-me {
+    text-align: center;
+}
