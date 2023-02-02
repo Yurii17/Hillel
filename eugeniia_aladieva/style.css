@@ -1,0 +1,23 @@
+body {
+    background-image: url(3.jpg);
+    background-size: 1500px 850px;  
+}
+h1 {color:rgb(103, 54, 149);
+    text-align: center; 
+    font-size:300%; 
+    font-family:courier;
+}
+#someid {
+    color: rgb(236, 38, 199);
+    font-family:cursive;
+}
+#oneid {
+    border: 5px solid rgb(17, 213, 239);
+    margin: 30px;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-color:rgb(208, 255, 0)
+  }
+ 
