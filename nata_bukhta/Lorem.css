@@ -1,0 +1,32 @@
+
+html,
+body {
+    background-color: gray;
+  }
+  
+  h1 {
+    color: rgb(131, 45, 45);
+    text-transform: uppercase;
+    text-align: center;
+  }
+  hr {
+    border-color: $lightGrey;
+    border-style: dashed;
+  }
+  h2 {
+    color: rgb(7, 1, 1);
+    text-align: center;
+  }
+  .button {
+    display: block;
+    padding: .40em 1em;
+    font-size: 1em;
+    font-weight: bold;
+    background: rgb(164, 66, 66);
+    color: white;
+    border: 0;
+    cursor: pointer;
+  }
+  p {text-align: justify;
+  }
+  
